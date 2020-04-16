@@ -1,0 +1,6 @@
+cs231n_assignments/assignment*/cs231n/datasets
+assignment*/cs231n/datasets
+*.npz
+*.jpg
+*.png
+*.sh
