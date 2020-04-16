@@ -4,3 +4,5 @@ assignment*/cs231n/datasets
 *.jpg
 *.png
 *.sh
+*/requirements.txt
+
