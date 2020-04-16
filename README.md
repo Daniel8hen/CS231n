@@ -1,6 +1,6 @@
-# CS231n
+# CS231n (The Israeli version - by MDLI community)
 
-My implementation for Stanford's CS231n Deep Learning Course, conducted by the Israeli MDLI community (April, 2020)
+My implementation for Stanford's CS231n Deep Learning Course assignments, conducted by the Israeli MDLI community (April, 2020)
 
 
 ## Content:
